@@ -1,4 +1,4 @@
-# Social Democracy: An Alternate History
+# Conservative "Democracy": An Alternate History
 
 ## Included Libraries
 
